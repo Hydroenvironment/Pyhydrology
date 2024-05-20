@@ -1,2 +1,13 @@
 # Pyhydrology
-Hydrological analysis with Python
+# Hydrological analysis using python
+[![R build status](https://github.com/cosimameyer/overviewR/workflows/R-CMD-check/badge.svg)](https://github.com/Hydroenvironment/CMIP6-WORLDCLIM-HANDLING/actions)
+[![Project Status: Active – The project has reached a stable, usable
+state and is being actively
+developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+🌏 This repository is dedicated to providing resources, tutorials, and scripts for using Python in various hydrological applications. Whether you are a beginner or an advanced user, you will find valuable information to enhance your hydrology projects with Python.
+
+✅Author: Julio Montenegro Gambini, MSc.
+
