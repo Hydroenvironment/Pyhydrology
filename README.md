@@ -9,5 +9,8 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 
 🌏 This repository is dedicated to providing resources, tutorials, and scripts for using Python in various hydrological applications. Whether you are a beginner or an advanced user, you will find valuable information to enhance your hydrology projects with Python.
 
-✅Author: Julio Montenegro Gambini, MSc.
+🌐This repository is licensed under the MIT License. You are free to use, modify, and distribute the content as long as proper credit is given.
+
+✅Author: Julio Montenegro Gambini, M.Sc.
+Delft University of Technology (TU Delft), Netherlands.
 
