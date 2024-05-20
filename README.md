@@ -1,6 +1,6 @@
 # Pyhydrology
 # Hydrological analysis using python
-[![build](https://img.shields.io/circleci/project/github/badges/svg-to-image-proxy.svg?style=flat-square)][build]
+![build](https://img.shields.io/circleci/project/github/badges/svg-to-image-proxy.svg?style=flat-square)
 [![Project Status: Active – The project has reached a stable, usable
 state and is being actively
 developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
